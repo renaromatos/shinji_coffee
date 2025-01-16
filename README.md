@@ -1,16 +1,6 @@
 # shinji_coffee
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Basicamente um app que faz referência a um meme de um anime que eu adoro
+futuramente quero transforma-lo em um contador de quantas xícaras de café 
+uma pessoa consome por dia. 
+Ainda preciso estudar mais flutter pra implementar isso, mas acho que consigo.
